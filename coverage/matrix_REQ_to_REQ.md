@@ -1,4 +1,5 @@
 | Module | Req ID | Summary | Dependencies | Impact on Other Modules |
+| --- | --- | --- | --- | --- |
 | main | REQ-main-001 | Погода на главной странице | - | search, map, menu |
 | main | REQ-main-002 | Дополнительные инструменты на главной странице | - | search, map, menu |
 | search | REQ-search-003 | Поиск локации через поисковую строку | main | - |
