@@ -33,10 +33,10 @@ status: Ready
 ### Окружение (Environment)
 | Платформа | Браузер | Версия | ОС | комментарий |
 |------------|---------|--------|----|---------|
-| Desktop    | Firefox  | 154.0.1 | Windows 10 | actual |
-| Desktop    | Yandex browser | 26.8.0.1788 | Windows 10 | actual |
-| Desktop    | Firefox  | 128.9.0esr | Windows 10 | legacy |
-| Desktop    | Firefox  | 154.0 | Android 14 | mobile |
+| Desktop | Firefox  | 154.0.1 | Windows 10 | actual |
+| Desktop | Yandex browser | 26.8.0.1788 | Windows 10 | actual |
+| Desktop | Firefox  | 128.9.0esr | Windows 10 | legacy |
+| Mobile | Firefox  | 154.0 | Android 14 | mobile |
 
 > **Важно:** Если тест должен выполняться в нескольких окружениях, здесь они перечисляются. Тест считается пройденным при совпадении результата во всех окружениях.
 
