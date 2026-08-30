@@ -1,5 +1,5 @@
 | Requiement ID | Описание Requiement | test case ID | Тип теста | Приоритет теста |
-| :--- | :--- | :--- | :--- |
+| --- | --- | --- | --- |
 | REQ-main-001 | Погода на главной странице | TC-main-001 | Functional | High |
 | REQ-main-001 | Погода на главной странице | TC-main-002 | Functional | High |
 | REQ-main-002 | Дополнительные инструменты на главной странице | TC-main-003 | Functional | High |
