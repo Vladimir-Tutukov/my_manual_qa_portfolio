@@ -1,5 +1,5 @@
 ---
-id: TC-menu-017
+id: TC-map-021
 title: Отображение информации на карте давления для мобильной версии
 requirement: REQ-map-009 
 priority: High

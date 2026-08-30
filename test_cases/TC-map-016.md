@@ -1,5 +1,5 @@
 ---
-id: TC-menu-016
+id: TC-map-016
 title: Отображение информации на карте температуры для полной версии
 requirement: REQ-map-008 
 priority: High

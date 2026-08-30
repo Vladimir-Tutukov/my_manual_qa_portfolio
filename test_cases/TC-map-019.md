@@ -1,5 +1,5 @@
 ---
-id: TC-menu-017
+id: TC-map-019
 title: Отображение информации на карте ветра для мобильной версии
 requirement: REQ-map-009 
 priority: High

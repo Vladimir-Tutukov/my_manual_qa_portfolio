@@ -1,5 +1,5 @@
 ---
-id: TC-menu-016
+id: TC-map-018
 title: Отображение информации на карте ветра для полной версии
 requirement: REQ-map-009 
 priority: High

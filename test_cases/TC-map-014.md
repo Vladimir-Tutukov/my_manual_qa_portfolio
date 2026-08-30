@@ -1,5 +1,5 @@
 ---
-id: TC-menu-014
+id: TC-map-014
 title: Отображение информации на карте осадков для полной версии
 requirement: REQ-map-007 
 priority: High

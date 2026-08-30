@@ -1,5 +1,5 @@
 ---
-id: TC-menu-017
+id: TC-map-017
 title: Отображение информации на карте температуры для мобильной версии
 requirement: REQ-map-008 
 priority: High
