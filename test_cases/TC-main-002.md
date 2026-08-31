@@ -1,10 +1,12 @@
 ---
+author: Vladimir-Tutukov
 id: TC-main-002
 title: Проверка прогноза на мобильной версии главной страницы
 requirement: REQ-main-001 
 priority: High
 type: Functional
 status: Ready
+actual date: 2026-08-31 
 ---
 
 ### Предусловия (Preconditions)

@@ -1,10 +1,12 @@
 ---
+author: Vladimir-Tutukov
 id: TC-map-014
 title: Отображение информации на карте осадков для полной версии
 requirement: REQ-map-007 
 priority: High
 type: Functional
 status: Ready
+actual date: 2026-08-31 
 ---
 
 ### Предусловия (Preconditions)

@@ -1,10 +1,12 @@
 ---
+author: Vladimir-Tutukov
 id: TC-search-008
 title: Поиск места по названию транслитом
 requirement: REQ-search-003 
 priority: Medium
 type: Functional
 status: Ready
+actual date: 2026-08-31
 ---
 
 ### Предусловия (Preconditions)

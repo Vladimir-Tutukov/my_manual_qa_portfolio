@@ -1,10 +1,12 @@
 ---
+author: Vladimir-Tutukov
 id: TC-map-017
 title: Отображение информации на карте температуры для мобильной версии
 requirement: REQ-map-008 
 priority: High
 type: Functional
 status: Ready
+actual date: 2026-08-31 
 ---
 
 ### Предусловия (Preconditions)

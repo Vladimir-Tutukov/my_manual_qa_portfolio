@@ -1,10 +1,12 @@
 ---
+author: Vladimir-Tutukov
 id: TC-map-020
 title: Отображение информации на карте давления для полной версии
 requirement: REQ-map-009 
 priority: High
 type: Functional
 status: Ready
+actual date: 2026-08-31 
 ---
 
 ### Предусловия (Preconditions)

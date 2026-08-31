@@ -1,10 +1,12 @@
 ---
+author: Vladimir-Tutukov
 id: TC-search-009
 title: Поиск места по очень длинной строке
 requirement: REQ-search-003 
 priority: Low
 type: Negative
 status: Ready
+actual date: 2026-08-31
 ---
 
 ### Предусловия (Preconditions)

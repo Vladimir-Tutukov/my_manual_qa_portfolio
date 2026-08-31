@@ -1,10 +1,12 @@
 ---
+author: Vladimir-Tutukov
 id: TC-main-003
 title: Проверка дополнительных инструментов на полной версии главной страницы
 requirement: REQ-main-002 
 priority: High
 type: Functional
 status: Ready
+actual date: 2026-08-31 
 ---
 
 ### Предусловия (Preconditions)

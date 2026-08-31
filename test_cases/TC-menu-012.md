@@ -1,10 +1,12 @@
 ---
+author: Vladimir-Tutukov
 id: TC-menu-012
 title: Проверка корректности отображения меню на мобильных устройствах
 requirement: REQ-menu-005 
 priority: High
 type: Functional
 status: Ready
+actual date: 2026-08-31 
 ---
 
 ### Предусловия (Preconditions)

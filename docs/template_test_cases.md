@@ -10,7 +10,7 @@ requirement: REQ-<MODULE>-000 # Ссылка на проверяемое тре�
 priority: High | Medium | Low
 type: Functional | Regression | UI | UX # Тип проверки
 status: Ready | In Progress | Blocked
-actual date: 01-01-1976       # Дата актуализации тест кейса
+actual date: 2021-02-13       # Дата актуализации тест кейса
 ---
 
 ### Предусловия (Preconditions)

@@ -1,10 +1,12 @@
 ---
+author: Vladimir-Tutukov
 id: TC-main-001
 title: Проверка прогноза на полной версии главной страницы
 requirement: REQ-main-001 
 priority: High
 type: Functional
 status: Ready
+actual date: 2026-08-31 
 ---
 
 ### Предусловия (Preconditions)

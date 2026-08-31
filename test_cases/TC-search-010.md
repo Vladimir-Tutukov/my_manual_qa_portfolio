@@ -1,10 +1,12 @@
 ---
+author: Vladimir-Tutukov
 id: TC-search-010
 title: Поиск места в модуле "погода в других городах"
 requirement: REQ-search-004 
 priority: High
 type: Functional
 status: Ready
+actual date: 2026-08-31
 ---
 
 ### Предусловия (Preconditions)

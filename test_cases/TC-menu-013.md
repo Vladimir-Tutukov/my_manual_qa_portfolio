@@ -1,10 +1,12 @@
 ---
+author: Vladimir-Tutukov
 id: TC-menu-013
 title: Проверка корректности отображения меню для полной версии сайта
 requirement: REQ-menu-006 
 priority: High
 type: Functional
 status: Ready
+actual date: 2026-08-31 
 ---
 
 ### Предусловия (Preconditions)

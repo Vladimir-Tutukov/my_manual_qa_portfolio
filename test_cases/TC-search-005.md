@@ -1,10 +1,12 @@
 ---
+author: Vladimir-Tutukov
 id: TC-search-005
 title: Проверка функционала поиска по названию
 requirement: REQ-search-003 
 priority: High
 type: Functional
 status: Ready
+actual date: 2026-08-31
 ---
 
 ### Предусловия (Preconditions)
