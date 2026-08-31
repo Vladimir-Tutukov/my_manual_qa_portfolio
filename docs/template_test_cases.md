@@ -3,12 +3,14 @@
 # Файл предназначен для копированя оформления для тест кейсов, при работе с шаблоном переименуйте скопированный файл в TC-XXX-XXX.md и заполните поля
 # Здесь и далее словом <MODULE> обозначается название тестируемого модуля
 
+author: tester               # Автор тест кейса
 id: TC-<MODULE>-000          # Пример: TC-AUTH-001
 title: <Краткое название>     # Пример: Авторизация на сайте
 requirement: REQ-<MODULE>-000 # Ссылка на проверяемое требование
 priority: High | Medium | Low
 type: Functional | Regression | UI | UX # Тип проверки
 status: Ready | In Progress | Blocked
+actual date: 2021-02-13       # Дата актуализации тест кейса
 ---
 
 ### Предусловия (Preconditions)
