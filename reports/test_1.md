@@ -5,7 +5,7 @@ environment: Yandex browser 26.8.0.1788, mobile
 module: search
 ---
 
-##предусловия
+## предусловия
 - Браузер переключен на новый профиль Tester_weather_user. 
 - В браузере открыто новое окно в режиме инкогнито
 

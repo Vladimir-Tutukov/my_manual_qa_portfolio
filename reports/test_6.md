@@ -5,7 +5,7 @@ environment: Firefox for android 154.0, desktop
 module: menu
 ---
 
-##предусловия
+## предусловия
 - Тест проводится на устройстве Lenovo Legion Tab Y700 под управлением OS Android 14
 - В браузере открыто новое окно в режиме инкогнито
 - Браузер подсоединён к компьютеру, на котором firefox работает с браузером на android через интерфейс about:debugging

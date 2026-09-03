@@ -1,11 +1,11 @@
 ---
 tester: Vladimir-Tutukov
-test_date: 
+test_date: 2026-09-03
 environment: Legacy firefox 128.9.0esr, mobile
 module: map
 ---
 
-##предусловия
+## предусловия
 - Браузер переключен на новый профиль Tester_weather_user. 
 - В браузере открыто новое окно в приватном режиме
 
