@@ -27,3 +27,12 @@ module: main
 | число неуспешных тестов | 1 |
 
 </details>
+
+<details>
+  <summary>Выявленные дефекты (развернуть по клику)</summary>
+
+| ID | Описание | Priority | Severity | Affected Runs |
+|----|----------|----------|----------|---------------|
+| TAS-main-002 | Покрытие тест кейсами модуля main | High | medium | test_4, test_5, test_9, test_15 |
+
+</details>

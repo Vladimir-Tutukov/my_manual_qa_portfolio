@@ -31,3 +31,12 @@ module: search
 | число неуспешных тестов | 1 |
 
 </details>
+
+<details>
+  <summary>Выявленные дефекты (развернуть по клику)</summary>
+
+| ID | Описание | Priority | Severity | Affected Runs |
+|----|----------|----------|----------|---------------|
+| BUG-search-003 | Отсутствие кнопок "Погода в России" и "В мире" в блоке "погода в других городах" | High | medium | test_1, test_8, test_12, test_14 |
+
+</details>

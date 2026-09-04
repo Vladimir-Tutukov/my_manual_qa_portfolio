@@ -26,3 +26,12 @@ module: menu
 | число неуспешных тестов | 1 |
 
 </details>
+
+<details>
+  <summary>Выявленные дефекты (развернуть по клику)</summary>
+
+| ID | Описание | Priority | Severity | Affected Runs |
+|----|----------|----------|----------|---------------|
+| TAS-menu-001 | Покрытие тест кейсами модуля menu | High | High | test_3, test_6, test_10, test_16 |
+
+</details>
