@@ -39,7 +39,7 @@ actual date: 2026-08-31
 ### Окружение (Environment)
 | Платформа | Браузер | Версия | ОС | комментарий |
 |------------|---------|--------|----|---------|
-| Desktop | Firefox  | 154.0.1 | Windows 10 | actual |
+| Desktop | Google chrome | 152.0.7977.76 | Windows 10 | actual |
 | Desktop | Yandex browser | 26.8.0.1788 | Windows 10 | actual |
 | Desktop | Firefox  | 128.9.0esr | Windows 10 | legacy |
 | Mobile | Firefox  | 154.0 | Android 14 | mobile |
